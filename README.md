@@ -4,10 +4,9 @@ This is an Android Wear WatchFace (using @ustwo's awesome library) which shows y
 
 For example: 
 
--12:34
+    12:34
 
--26m until 
+    26m until 
 
--Meeting with Inspector Gadget
-
--@ Gogo Gadget Headquarters Room 32
+    Meeting with Inspector Gadget
+    @ Gogo Gadget Headquarters Room 32
